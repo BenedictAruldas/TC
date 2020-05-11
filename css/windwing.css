@@ -1,0 +1,65 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body 
+{
+	background-color: #F3E9FF ;
+	font-family: sans-serif;
+
+}
+.menubar
+{
+	background-color: #5D02CF;
+	text-align: center;
+}
+.menubar ul 
+{
+display: inline-flex;
+list-style: none;
+color: #fff;
+
+}
+
+.menubar ul li 
+{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+
+}
+.menubar ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.active, .menubar ul li:hover
+{
+	background-color: #AA84DB ;
+	border-radius: 3px;
+
+
+}
+
+.menubar .fa
+{
+	margin-right: 8px;
+
+}
+
+.submenu1 
+{
+	display: none;
+
+}
+.menubar ul li:hover .submenu1 
+{
+  display: block;
+  position: absolute;
+  background-color: #5D02CF;(0,100,0); 
+  margin-top: 15px;
+  margin-left: 15px;	
+}
