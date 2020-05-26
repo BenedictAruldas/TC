@@ -1,0 +1,17 @@
+
+.left {
+	position: absolute;
+	background-color: aquamarine;
+	width: 50%;
+	height: 250%;
+	top: 0;
+	left: 0;
+}
+
+.right {
+	position: absolute;
+	background-color: aliceblue;
+	width:50%;
+	height: 250%;
+	top:0;
+	right: 0;
