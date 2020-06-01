@@ -26,7 +26,7 @@ color: #fff;
 
 .menubar ul li 
 {
-	width: 120px;
+	width: 150px;
 	margin: 15px;
 	padding: 15px;
 
@@ -39,7 +39,7 @@ color: #fff;
 .active, .menubar ul li:hover
 {
 	background-color: #AA84DB ;
-	border-radius: 3px;
+	border-radius: 10px;
 
 
 }
