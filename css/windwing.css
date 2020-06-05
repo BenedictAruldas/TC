@@ -4,16 +4,17 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
+/* #F3E9FF */
 body 
 {
-	background-color: #F3E9FF ;
+	background-color: #F3E9FF  ;
 	font-family: sans-serif;
 
 }
+/*#5D02CF*/
 .menubar
 {
-	background-color: #5D02CF;
+	background-color:#5D02CF;
 	text-align: center;
 }
 .menubar ul 
@@ -27,8 +28,9 @@ color: #fff;
 .menubar ul li 
 {
 	width: 150px;
-	margin: 15px;
+	margin: px;
 	padding: 15px;
+
 
 }
 .menubar ul li a
@@ -39,7 +41,7 @@ color: #fff;
 .active, .menubar ul li:hover
 {
 	background-color: #AA84DB ;
-	border-radius: 10px;
+	border-radius: 15px;
 
 
 }
@@ -60,6 +62,30 @@ color: #fff;
   display: block;
   position: absolute;
   background-color: #5D02CF;(0,100,0); 
-  margin-top: 15px;
-  margin-left: 15px;	
+  margin-top: 10px;
+  margin-left: 0px;	
 }
+.menubar ul li:hover .submenu1 ul {
+	display: block;
+	margin: 10px;
+
+}
+.menubar ul li:hover .submenu1 ul li 
+{
+  width:  90px;
+  padding: 5px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  border-radius: 0;
+
+}
+.menubar ul li:hover .submenu1 ul li:last-child
+{
+  border-bottom: none;
+}
+.menubar ul li:hover .submenu1 ul li a:hover 
+{
+	color: #b2ff;
+}
+
+
