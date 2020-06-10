@@ -55,17 +55,103 @@
 
 	
 	 </SELECT>&nbsp;&nbsp;&nbsp;
-	 Constituency :<input type="Text" placeholder="Constituency" name="Constituency"><br>
-	 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;State :<input type="Text" placeholder="State" name="State"><br><br>
+	 Constituency :<SELECT>
+	 	<OPTION>
+	 		Arakkonam</OPTION>
+<option>Arani</option>
+<option>Chennai (Central)</option>
+<option>Chennai (North)</option>
+<option>Chennai (South)</option>
+<option>Chidambaram </option>
+<option>Coimbatore</option>
+<option>Cuddalore</option>
+<option>Dharmapuri</option>
+<option>Dindigul</option>
+<option>Erode</option>
+<option>Kallakurichi</option>
+<option>Kancheepuram</option>
+<option>Kanyakumari</option>
+<option>Karur</option>
+<option>Krishnagiri</option>
+<option>Madurai</option>
+<option>Mayiladuthurai</option>
+<option>Nagapattinam</option>
+<option>Namakkal</option>
+<option>Nilgiris</option>
+<option>Perambalur</option>
+<option>Pollachi</option>
+<option>Pondicherry</option>
+<option>Ramanathapuram</option>
+<option>Salem </option>
+<option>Sivaganga</option>
+<option>Sriperumbudur</option>
+<option>Tenkasi</option>
+<option>Thanjavur</option>
+<option>Theni</option>
+<option>Thiruvallur</option>
+<option>Thoothukudi</option>
+<option>Tiruchirappalli</option>
+<option>Tirunelveli</option>
+<option>Tiruppur</option>
+<option>Tiruvannamalai</option>
+<option>Vellore</option>
+<option>Villupuram</option>
+<option>Virudhunagar</option>
+
+
+
+
+
+
+
+
+
+	 	</OPTION>
+	 </SELECT><br>
+	 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;State : Tamil Nadu
+	 <select style="display: none;">
+	 	<option>Andhra Pradesh</option>
+<option>Arunachal Pradesh </option>
+<option>Assam </option>
+<option>Bihar </option>
+<option>Goa </option>
+<option>Gujarat </option>
+<option>Haryana </option>
+<option>Himachal Pradesh </option>
+<option>Jammu & Kashmir </option>
+<option>Karnataka </option>
+<option>Kerala </option>
+<option>Madhya Pradesh </option>
+<option>Maharashtra </option>
+<option>Manipur </option>
+<option>Meghalaya </option>
+<option>Mizoram </option>
+<option>Nagaland </option>
+<option>Orissa </option>
+<option>Punjab </option>
+<option>Rajasthan </option>
+<option>Sikkim </option>
+<option>Tamil Nadu </option>
+<option>Tripura</option>
+<option>Uttar Pradesh </option>
+<option>West Bengal</option>
+<option>Chhattisgarh </option>
+<option>Uttarakhand </option>
+<option>Jharkhand</option>
+<option>Telangana</option>
+
+
+	 </select><br><br>
+	 
 	 3) Leader of the Troop & Tel.no : <input type="Name" placeholder="Name" name="Name"> <input type="Tel" placeholder="Phone Number" name="tel"><br><br>
 	 4) Date on which troop was formed: <input type="Date" placeholder="Date" name="Date"><br><br>
 	 5) Anointing Day of the Troop: <input type="Date" placeholder="Date" name="Date"><br><br>
-	 6) Adress of the Leader: <input type="Adress" placeholder= "adresss" name="Adress"> 
+	 6) Adress of the Leader: <input type="Adress" placeholder= "Adress" name="Adress"> 
 	 Contact No:<input type="tel" placeholder="Phone No"name="tel">
 	 Email Id: <input type="Email" placeholder="Email"  name="Email"><br><br>
 
 	 <p> Member of the Troop</p>
-	 <table border="1">
+	 <table border="0">
 	 	<tr>
 	 		<td>
 	 			SN No
@@ -94,8 +180,11 @@
 	 			<input type="tel" placeholder="Phone No"name="tel">
 	 		</td>
 	 		<td>
-	 			<input type="radio" name=""> Yes
-	 			<input type="radio" name=""> No
+	 			
+	 			<input type="radio" id="yes" name="Yes" value="Yes">
+  				<label for="Yes">Yes</label>
+  				<input type="radio" id="No" name="No" value="No">
+  				<label for="No">No</label>
 	 		</td>
 	 		<td>
 	 			<input type="radio" name=""> Yes
@@ -315,7 +404,7 @@
 	 	
 	 </table><BR><BR>
 
-	 Day of the Troop Meeting;<input type="Date" placeholder="Date"   name="Date"><br><br>
+	 Day of the Troop Meeting:<input type="Date" placeholder="Date"   name="Date"><br><br>
 	 Time of the Troop Meeting: <input type="Time" placeholder="Time"name="Time"><br><br>
 	 <input type="Submit" placeholder="Submit" name="Submit"><br>
 
