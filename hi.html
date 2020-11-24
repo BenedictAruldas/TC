@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hi</title>
+	<script type="text/javascript">
+		var yes ='Luke 19:17  Because you have been trustworthy in a very small matter, take charge of ten cities.'
+		var no = 'Congratulation !!! You are Selected.'
+		function yes1 (){
+			document.getElementById ('answer').innerHTML = yes;
+		}
+		function no1(){
+			document.getElementById ('answer').innerHTML = no;
+		}
+
+	</script>
+	<style type="text/css">
+		.noo {
+			display: none;
+		}
+
+	</style>
+</head>
+<body>
+	<H1> Dear Brother,<br>
+	I am going to suggest your name to be the next Financial Discipline National Coordinator </H1>
+	<h1> Are you willing to do this ?</h1>
+	<button onclick="yes1()">yes</button>
+	<button id="button" onclick="getElementById('button').className= 'noo';" onclick="no1()">no</button>
+
+	<h2 id="answer" style="background-color: yellow;"></h2>
+
+
+</body>
+</html>
