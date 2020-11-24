@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript getMonth()</h2>
+
+<p>The getMonth() method returns the month as a number:</p>
+
+<p>You can use an array to display the name of the month:</p>
+
+<p id="seconds"></p>
+<p id="minute"></p>
+<p id="hour"></p>
+<p id="day"></p>
+<p id="month"></p>
+<p id="year"></p>
+
+
+
+<script>
+var d = new Date();
+document.getElementById("seconds").innerHTML = d.getSeconds();
+
+var d = new Date();
+//minute//
+var d = new Date();
+document.getElementById("minute").innerHTML = d.getMinutes();
+// hour //
+var d = new Date();
+document.getElementById("hour").innerHTML = d.getHours();
+
+// day//
+var d = new Date();
+document.getElementById("day").innerHTML = d.getDate();
+// month //
+var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+document.getElementById("month").innerHTML = months[d.getMonth()];
+
+//year//
+var d = new Date();
+document.getElementById("year").innerHTML = d.getFullYear();
+</script>
+
+</body>
+</html>

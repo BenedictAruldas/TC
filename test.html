@@ -2,6 +2,49 @@
 <html>
 <head>
 	<title> Test </title>
+	<script type="text/javascript">
+		
+
+		
+
+		function displayno () {
+			document.getElementById ('title').innerHTML = no;
+
+		}
+
+		function displayyes() {
+			document.getElementById ('title').innerHTML = yes;
+		}
+
+		
+		function ans() {
+			document.getElementById ('title').innerHTML = answer;
+		}
+		var number1 = 38005
+		var number2 = 36004
+		var answer = number1 - number2;
+		var no = "Joshua 24:15 then choose for yourselves this day whom you will serve "
+		var yes = "Malachi 3:18 And you will again see the distinction between those who serve God and those who do not."
+		
+		
+
+		
+		
+		var hello = 'hello, i am learning JS';
+		
+		
+
+
+		var number3 = 20
+		var number4 = 115
+		var answer1 = number3 + number4;
+		 document.write (answer1);
+		 document.getElementById ('title1').innerHTML = answer;
+		 
+</script>
+	
+	
+
 	<style type="text/css">
 		button{
 			margin: 8px;
@@ -12,42 +55,24 @@
 		}
 	</style>
 
+
 	
 </head>
 <body>
 	
 
-	<h1 id="test" style="background-color: yellow;"></h1>
+	<h1 id="title" style="background-color: yellow;">title</h1>
 	<br><br>
-	<P> Dear JSFD Regional Coordinator will You attend the meeting ? <br>
+	<P> Dear JSFD Regional Coordinator will You attend the meeting ? <br></P>
 	<div style="display: inline-flex;">
 
-	<button onclick= "document.getElementById ('test').innerHTML = yes ;"> YES</button><br><br>
-	<BUTTON onclick= "document.getElementById ('test').innerHTML = no;">NO </BUTTON> </div><br><br> Chris Benedict the answer is =   
+	<button onclick= "displayyes()">YES</button><br><br>
+	<BUTTON onclick= "displayno()" >NO </BUTTON> </div><br><br> 
+	<button onclick= "ans()">Answer </button>
 
-	<script type="text/javascript">
-		
-		var number1 =2
-		var number2 = 9
-		var answer = number1 + number2;
-		var hello = 'hello, i am learning JS';
-		document.getElementById ('test').innerHTML = answer;
-		
-
-
-		var number1 = 2
-		var number2 = 5
-		var answer = number1 + number2;
-		document.write (answer);
-
-		var no = "Joshua 24:15 then choose for yourselves this day whom you will serve "
-		var yes = "Malachi 3:18 And you will again see the distinction between those who serve God and those who do not."
+	<h3 id="title1" style="background-color: pink;">text1</h3>
 	
-		
-
-	</script>
-
-
+	
 
 	
 
