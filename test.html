@@ -40,6 +40,20 @@
 		var answer1 = number3 + number4;
 		 document.write (answer1);
 		 document.getElementById ('title1').innerHTML = answer;
+
+
+var h2text = ["First h2", "Second H2"];
+var counter = 0;
+var h2 = document.getElementById("changeH2");
+var inst = setInterval(change, 2000);
+function change() {
+  h2.innerHTML = h2text[counter];
+  counter++;
+  if (counter >= h2text.length) {
+    counter = 0;
+  }
+}
+
 		 
 </script>
 	
@@ -71,6 +85,11 @@
 	<button onclick= "ans()">Answer </button>
 
 	<h3 id="title1" style="background-color: pink;">text1</h3>
+
+
+
+	<h2 id="changeH2">1</h2>
+	<button onclick="change()" >1</button>
 	
 	
 

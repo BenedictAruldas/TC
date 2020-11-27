@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Some Fun</title>
+	<meta http-equiv="refresh" content="30">
+	<script type="text/javascript">
+
+		
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.innerHTML === "Hello") {
+    x.innerHTML = "Swapped text!";
+  } else {
+    x.innerHTML = "Hello";
+  }
+}
+
+function toggletext() {
+  setInterval(function(){ alert("Hello"); }, 3000);
+}
+
+	</script>
+</head>
+<body>
+<button onclick="myFunction()">Click Me</button> <br><br>
+
+<button onclick="toggletext()">Click Me</button> <br><br>
+
+<div id="myDIV">Hello</div>
+</body>
+</html>

@@ -4,6 +4,22 @@
 	<title>கர்மேல் பர்வதம் அணி சபை</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <script type="text/javascript">
+    	var verse1 = "Then the fire of the LORD fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench. <br> 39 When all the people saw this, they fell prostrate and cried, 'The LORD-he is God! The LORD-he is God!'"
+    	var verse2 = " அப்பொழுது: கர்த்தரிடத்தில் இருந்து அக்கினி இறங்கி, அந்தச் சர்வாங்க தகனபலியையும், விறகுகளையும், கற்களையும், மண்ணையும் பட்சித்து, வாய்க்காலிலிருந்த தண்ணீரையும் நக்கிப்போட்டது. <br> 39. ஜனங்களெல்லாரும் இதைக் கண்டபோது, முகங்குப்புற விழுந்து: கர்த்தரே தெய்வம், கர்த்தரே தெய்வம் என்றார்கள்."
+
+    	function myVerse() {
+  var x = document.getElementById("verse");
+  if (x.innerHTML === verse1) {
+    x.innerHTML = verse2;
+  } else {
+    x.innerHTML = verse1;
+  }
+}
+
+
+    </script>
+
 	<style type="text/css">
 		body{ background-color: #;
 			color: #591a1a;
@@ -17,11 +33,12 @@
 	}
 
      </style>
+
 	
 </head>
 <body>
-
-	<header style="background-color:yellow;">1 Kings 18:38Then the fire of the LORD fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench. 
+ <button onclick="myVerse ()"> I Kings 18:38 <br>I இராஜாக்கள் 18: 38 </button><p id="verse" style="background-color:yellow;"> </p>
+	<header style="background-color:yellow; display: none;">1 Kings 18:38Then the fire of the LORD fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench. 
 		<br>39When all the people saw this, they fell prostrate and cried, "The LORD-he is God! The LORD-he is God!” <br><br>
 
 I இராஜாக்கள்
