@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Troop Church Application</title>
+	<script type="text/javascript">
+		function onee (){
+			document.getElementById('test').innerHTML = "God is Good";
+		}
+		
+		function ddlselect () {
+			var d = document.getElementById("ddselect");
+			var displaytext = d.options[d.selectedIndex].text;
+			document.getElementById("textvalue").value = displaytext;
+			document.getElementById("test").innerHTML = displaytext;
+			document.getElementById('yourLinkID').click();
+		}
+
+		
+		
+
+	</script>
+</head>
+<body>
+	<select id="ddselect" onchange= "ddlselect();" > <a href="Arunachal Pradesh">
+<option> --Select State-- </option>
+<option id="1" onchange='onee()'> 1	Andhra Pradesh </option>
+<option> <a href="Arunachal Pradesh">2	Arunachal Pradesh</a> </option>
+<option> 3	Assam</option>
+<option> 4	Bihar</option>
+<option> 5	Chhattisgarh</option>
+<option> 6	Goa</option>
+<option> 7	Gujarat</option>
+<option> 8	Haryana </option>
+<option> 9	Himachal Pradesh </option>
+<option> 10	Jharkhand </option>
+<option> 11	Karnataka </option>
+<option> 12	Kerala </option>
+<option> 13	Madhya Pradesh </option>
+<option> 14	Maharashtra </option>
+<option> 15	Manipur </option>
+<option> 16	Meghalaya </option>
+<option> 17	Mizoram </option>
+<option> 18	Nagaland </option>
+<option> 19	Odisha </option>
+<option> 20	Punjab </option>
+<option> 21	Rajasthan </option>
+<option> 22	Sikkim </option>
+<option> 23	Tamil Nadu </option>
+<option> 24	Telangana </option>
+<option> 25	Tripura </option>
+<option> 26	Uttar Pradesh </option>
+<option> 27	Uttarakhand </option>
+<option> 28	West Bengal </option>
+<option> 29	Andaman and Nicobar Islands </option>
+<option> 30	Chandigarh </option>
+<option> 31	Dadra and Nagar Haveli </option>
+<option> 32	Daman and Diu </option>
+<option> 33	Jammu and Kashmir </option>
+<option> 34	NCT of Delhi </option>
+<option> 35	Ladakh </option>
+<option> 36	Lakshadweep </option>
+<option> 37	Puducherry </option>
+<input type="yourLinkID" name="txtvalue" id="textvalue">
+</select>
+
+<a href="" id="test"> 1</a>
+<button onclick='onee()'>i</button>
+
+</body>
+</html>
