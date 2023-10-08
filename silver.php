@@ -19,13 +19,11 @@
 			margin: 8px;
 		}
 	</style>
-
-	
 </head>
 <body>
-	<h2 style="background-color: #662AA4; color: white; text-align: center;">Invitation - AOJ Jubilee Year Celebration  <br> <b>Chennai -TN</b>
+	<h2 style="background-color: #662AA4; color: white; text-align: center;">Invitation - AOJ Jubilee Year Celebration  <br> <b>Madurai -TN</b>
  <br> 11 to 13.11.2023 </h2>
-	<div style="text-align: center;"> <a href="#"> <img src="img/twri.jpeg" width="100%x" height=""></a> <br>whatsapp குழுவில் சேர படத்தை கிளிக் செய்யவும்</div>
+	<div style="text-align: center;"> <a href="#"> <img src="img/hisrest.jpeg" width="100%x" height=""></a> <br>whatsapp குழுவில் சேர படத்தை கிளிக் செய்யவும்</div>
 	<h2 style="background-color: #662AA4; color: white; text-align: center;"> Leviticus 25:10 And you shall consecrate and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you 
 </h2>
 	
@@ -33,7 +31,7 @@
 
 
 <h2>
-On Behalf of AOJ National Core Team and TN Core Team (Host) <br>  We Invite all the AOJ members with their family to attend the <br> Jubilee Year Celebration<br> to be held at Chennai -Tamil Nadu from 11.11.23 to 13.11.23 <br>All are welcomed </h2>
+On Behalf of AOJ National Core Team and TN Core Team (Host) <br>  We Invite all the AOJ members with their family to attend the <br> Jubilee Year Celebration<br> to be held at Madurai -Tamil Nadu from 11.11.23 to 13.11.23 <br>All are welcomed </h2>
 
 <h3>
 Leviticus 25:21-22 <br> 21 I will send you such a blessing in the sixth year that the land will yield enough for three years. 22 While you plant during the eighth year, you will eat from the old crop and will continue to eat from it until the harvest of the ninth year comes in.</h3>
@@ -50,15 +48,13 @@ Language : English <br><br> -->
 
 <!--Arrival Venue / வருகை இடம்: <br><a href="#">  ------------- <br> --------------- <br> கன்னியாகுமரி </a><br><br> -->
 <h2 style="background-color: #662AA4; color: white; "> Meeting Venue / கூட்ட அரங்கு இடம் :</h2>
-     <h2> <a href="https://maps.app.goo.gl/fGy191LkgFuHHFdBA"> 
-Address: <br>TransWorld Radio India <br>Paramankeni,<br> Cheyyur taluk,<br> Chennai<br>Tamil Nadu - 603305 </a></h2>
+    <h2> <a href="https://goo.gl/maps/XiiC4XLjB6J8fQkBA"> 
+	Address: <br>His Rest<br>Devashanthi Road,<br> Saranthangi,<br> Madurai <br>Tamil Nadu 625503 </a></h2>
 
 
 <br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d498158.49414395913!2d79.8398239544915!3d12.722343852154093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3a52667248cbdb69%3A0xc40ead684a8f274b!2sChennai%20Central%2C%20Tamil%20Nadu!3m2!1d13.0697174!2d80.2432839!4m5!1s0x3a5309c172f4efed%3A0xc8a181ed4591dc48!2s93FJ%2BJCW%20Trans%20World%20Radio%20India(TWRI)%2C%20TransWorld%20Radio%20India%20%2CParamankeni%2C%20Cheyyur%20taluk%2C%20Chennai%2C%20Tamil%20Nadu%20603305!3m2!1d12.3741209!2d80.08108!5e0!3m2!1sen!2sin!4v1696786635102!5m2!1sen!2sin" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
- <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d498245.5885905688!2d79.83433654440249!3d12.67789843661391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x3a525e221bc912cf%3A0xc82c183aa4e6001a!2sAirport%2C%20Meenambakkam%2C%20Chennai%2C%20Tamil%20Nadu!3m2!1d12.9809!2d80.16412!4m5!1s0x3a5309c172f4efed%3A0xc8a181ed4591dc48!2s93FJ%2BJCW%20Trans%20World%20Radio%20India(TWRI)%2C%20TransWorld%20Radio%20India%20%2CParamankeni%2C%20Cheyyur%20taluk%2C%20Chennai%2C%20Tamil%20Nadu%20603305!3m2!1d12.3741209!2d80.08108!5e0!3m2!1sen!2sin!4v1696785913740!5m2!1sen!2sin" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br> from Railway station to meeting place / from airport to meeting place <br> from Railway station to meeting place / from airport to meeting place 
+<iframe  src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d125732.019130031!2d78.05954514825653!3d10.006482926998217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3b00c52a902b1a9b%3A0xb1726e4af0c22d30!2sMadurai%20Railway%20Station%2C%20Madurai%20Main%2C%20Madurai%2C%20Tamil%20Nadu!3m2!1d9.9192242!2d78.1105657!4m5!1s0x3b00b901e9b58831%3A0x830e7a3167be19e0!2shis%20rest%20madurai!3m2!1d10.0877429!2d78.15500759999999!5e0!3m2!1sen!2sin!4v1685783691585!5m2!1sen!2sin" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d125747.668304367!2d78.0658035479026!3d9.965984987568108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x3b00d069b8182015%3A0x90cf5814e6fb7f17!2sMadurai%20Airport%2C%20Airport%20Road%2C%20Madurai%2C%20Tamil%20Nadu!3m2!1d9.8382282!2d78.0894782!4m5!1s0x3b00b901e9b58831%3A0x830e7a3167be19e0!2shis%20rest%20madurai!3m2!1d10.0877429!2d78.15500759999999!5e0!3m2!1sen!2sin!4v1685784805854!5m2!1sen!2sin" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br> from Railway station to meeting place / from airport to meeting place 
 <br><br>
 <h2>
 Contact : <br> 
@@ -90,11 +86,9 @@ Central - Sol Theresa Cabbral 9867274859 <br> -->
 <h3><a href="#"> Participants Guidelines <br> பங்கேற்பாளர்களுக்கான வழிமுறைகள்</a> <br> <br>
 <a href="#"> Prayer Points <br> ஜெபக்குறிப்புக்கள் </a> </h3>
 
-<h3><a href="#"> Pictures </a></h3>
+<h3><a href="https://tn.aojarchive.com/his-rest-madurai-pictures/"> Pictures </a></h3>
 	<h4 style="font-size: 22px; background-color: #662AA4; color: white; text-align: center;" > Sr. Angelica & Team, Army of Jesus <br>
 AOJ National Core Team & Opero.in </h4><br>
 
 </body>
 </html>
-
-
